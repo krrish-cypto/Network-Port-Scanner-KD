@@ -94,14 +94,6 @@ Educational Purposes Only. This tool was created for educational purposes as par
 👨‍💻 Author  
 Krishna Dubey  
 
-Shri Ram Institute of Technology  
-
-AICTE Internship ID: INTERNSHIP_17703809656985dea55aec7
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
